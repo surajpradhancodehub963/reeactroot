@@ -1,0 +1,20 @@
+#main{
+    height: 100vh;
+    width: 100%;
+    background-color: #071952;
+}
+#main h1,
+#main h4{
+    color: #97FEED;
+}
+#root{
+    border: 2px solid black;
+}
+.box{
+    height: 200px;
+    font-size: 48px;
+    color: white;
+    background-color: #35A29F;
+    text-align: center;
+    border: 1px solid #071952;    
+}
